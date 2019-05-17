@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="la prueba  de la cucha johanna" skipped="0" tests="1" time="21.45" timestamp="2019-02-14 11:33:20"><testcase name="user login"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+com.bancolombia.certificacion.pruebascreenplay.task.Autentication.performAs(Autentication.java:19)&#13;
+com.bancolombia.certificacion.pruebasecreenplay.definitions.LoginDefinitions.theUserEnterTheCredentials(LoginDefinitions.java:38)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
